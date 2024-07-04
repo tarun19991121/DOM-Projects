@@ -1,0 +1,41 @@
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+span {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 0 10px;
+    border: 1px solid black;
+}
+span:hover {
+    cursor: pointer;
+}
+
+.container {
+    text-align: center;
+    margin: auto;
+}
+
+#grey {
+    background: grey;
+}
+
+#yellow {
+    background: yellow
+}
+
+#purple {
+    background: purple;
+}
+
+#red {
+    background: red;
+}
+
+#pink {
+    background: pink;
+}
