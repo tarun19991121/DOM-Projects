@@ -1,0 +1,23 @@
+body {
+    height: 100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#clock {
+    width: 100px;
+    height: 50px;
+    background-color: orange;
+    place-content: center;
+    font-size: 1.2rem;
+    font-weight: 800;
+    color: rgb(222, 41, 21);
+    padding: 0 1rem;
+}
