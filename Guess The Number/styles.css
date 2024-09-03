@@ -1,0 +1,29 @@
+body {
+    height: 100dvh;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.main {
+    height: fit-content;
+    width: 60%;
+    padding: 2rem;
+    background-color: aqua;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+}
+
+.button {
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    background-color: aquamarine;
+    color: rgb(44, 24, 24);
+    width: 50%;
+    margin: auto;
+    border-radius: 0.5rem;
+    border: 1px solid white;
+    cursor: pointer;
+}
