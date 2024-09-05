@@ -1,0 +1,27 @@
+body {
+    height: 100dvh;
+    background-color: #212121;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: rgb(252, 231, 7);
+}
+
+button {
+    width: 7rem;
+    color: rgb(10, 173, 213);
+    font-size: 1.15rem;
+    font-weight: 800;
+    background-color: aquamarine;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+.main {
+    text-align: center;
+    margin: auto;
+}
